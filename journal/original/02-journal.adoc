@@ -1,8 +1,11 @@
-== Memoir of Hannah Gibbons.
+== Journal of Hannah Gibbons.
 
 +++[+++Hannah Gibbons was the daughter of Joshua and Mary Pusey, of London Grove, Chester Co.,
 Pennsylvania, and was born there the 8th of 2nd month, 1771.
 A journal which she left, is thus introduced:]
+
+[.small-break]
+'''
 
 "`As it may be interesting to my children when I am gone,
 to know something of my early religious exercises, I feel inclined to note some of them,
@@ -30,6 +33,9 @@ and that it would be required of me to open my mouth in his cause among the peop
 which was very weighty to me,
 and gladly would I have felt excused from such a prospect.`"
 
+[.small-break]
+'''
+
 +++[+++The following letter, written about the year 1796, will show the tenderly visited,
 and thoroughly awakened state of Hannah Pusey`'s mind at that time:
 a state of sore conflict, and of being baptised into death,
@@ -41,7 +47,10 @@ and fuel of fire,`' is in measure experienced,
 but the penitent mind is brought to cry unto him in humility and contrition,
 under a lively sense of the Redeemer`'s power, and its need of help:]
 
-"`Thou art kind, my endeared cousin, in remembering me from time to time.
+[.embedded-content-document.letter]
+--
+
+Thou art kind, my endeared cousin, in remembering me from time to time.
 May our faith be increased,
 and our love to Christ and one unto another never give out while in this state of mutability.
 Although I have not written to thee for a long time, I have not ceased to love thee,
@@ -91,7 +100,10 @@ Now, my dear cousin, when it is well with thee,
 remember her who is often in a conflicting state,
 but who still remains to be thy affectionate cousin,
 
+[.signed-section-signature]
 Hannah Pusey.
+
+--
 
 "`When about the 26th or 27th year of my age, a Friend, Mary Swayne,
 from another Monthly Meeting,
@@ -107,8 +119,13 @@ Subsequently in the course of the visit,
 I ventured to open my mouth a few times by way of testimony, and afterwards was favored,
 I trust I may say, with a degree of holy quiet of mind.`"
 
+[.offset]
 +++[+++The following is extracted from a letter to her brother, Caleb Pusey, dated:]
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 3rd month 18th, 1798
 
 I was very glad, my dear brother, to receive a letter from thee,
@@ -141,10 +158,15 @@ and hope thou wilt receive it in the flowings of love in which it is written,
 knowing that I have as much need perhaps as any one,
 to be industrious in the heavenly journey.
 
+[.signed-section-closing]
 In love I am thy truly affectionate sister,
 
+[.signed-section-signature]
 Hannah Pusey.
 
+--
+
+[.offset]
 +++[+++Her diary continues:]
 
 "`In the year 1799 my beloved and aforesaid friend, Mary Swayne,
@@ -247,7 +269,7 @@ but was enabled to commit my cause to Him who knew best what was best for me.
 Our dear son, I trust, was favored to make a peaceful close.
 
 "`The next day after his remains were laid in the grave,
-I left home in company with my friends Samuel (ribbons, (a cousin), and Sarah Webster;
+I left home in company with my friends Samuel Gibbons, (a cousin), and Sarah Webster;
 and although I parted with my dear husband under much trial,
 my mind was sustained in quiet trust,
 and that evening at a Friend`'s house where we lodged, in Little York,
@@ -299,6 +321,7 @@ It may be worthy of note that Little Falls Meeting was one I felt easy to omit
 attending when on u visit to the meetings in those parts sometime before,
 in which my dear husband and Sarah Webster were my companions.`"
 
+[.offset]
 +++[+++The foregoing account of the period prior to the year 1827,
 was penned from memory when in the 85th year of her age.
 After that time, she says:]
@@ -356,6 +379,9 @@ Though a poor unworthy worm of the dust,
 thou hast once more condescended to show compassion, and to say, '`Peace,
 be still;`' confirming in the faith that Thy name remains to be a strong tower.`"
 
+[.small-break]
+'''
+
 +++[+++About this time Hannah Gibbons thus pours out her soul in fervent prayer
 for her family--those whom God had given her--that He would bless and
 water their souls with the spiritual increase that is of and through Him.
@@ -363,6 +389,9 @@ What a rich blessing often attends these exercises!
 And how are such religiously concerned parents, with their secret breathings,
 or their more open petitions to the God and Father of us all, missed,
 when called from their respective places here on earth:]
+
+[.small-break]
+'''
 
 "`Be pleased,`" she says, "`O Lord, to bless my dear husband and our tender offspring;
 gather the minds of the dear children unto thyself, that so they may come, more and more,
@@ -1185,24 +1214,24 @@ ability to labor for the healing of the breaches,
 and the restoring of paths to walk in;
 and I am favored to feel a portion of that quiet which is precious.`"
 
-The Lord`'s mercies are declared to be new every morning; and one of these is,
+"`The Lord`'s mercies are declared to be new every morning; and one of these is,
 His remembrance of those, the poor in spirit, whose petitions are often unto Him,
-"`Give us day by day our daily bread;`" so that these are
+'`Give us day by day our daily bread;`' so that these are
 enabled from time to time to set up Ebenezers to His name,
-with the acknowledgment, "`Hitherto He hath helped;`" and thus to put on fresh strength,
+with the acknowledgment, '`Hitherto He hath helped;`' and thus to put on fresh strength,
 through the life and power of his Holy Spirit,
 and to press towards the mark for the prize of our high calling of God in Christ Jesus.
 These also know that salvation is not the work of a day, or any mushroom growth;
 but to be wrought out through the obedience which is of faith,
 and perseverance in the straight and narrow way, like the husbandman in the parable,
-who "`waiteth for the precious fruits of the earth, and hath long patience for it,
-until he receive the early and latter rain.`"
+who '`waiteth for the precious fruits of the earth, and hath long patience for it,
+until he receive the early and latter rain.`'
 O! for more faithful walkers in the good old way
 of the footsteps of the flock of Christ`'s companions,
 after the power of an endless life:
-remembering the precepts--never more needed--"`Fight the good fight of faith.`"
-"`Looking diligently lest any man fail of (or fall from) the grace of God.`"
-"`In your patience possess ye your souls.`"
+remembering the precepts--never more needed--'`Fight the good fight of faith.`'
+'`Looking diligently lest any man fail of (or fall from) the grace of God.`'
+'`In your patience possess ye your souls.`'
 
 "`28th. After a tune of close proving and doubts
 respecting my state of acceptance in the Divine sight,
@@ -1249,8 +1278,14 @@ at times had presented with some clearness; and now believing the time had come,
 I opened to my friends the prospect of visiting the
 meetings composing the Western Quarterly Meeting.`"
 
+[.small-break]
+'''
+
 +++[+++This visit was performed with her friends Truman Cooper and Mary Evans for companions,
 and under date of 6th month 8th, she writes:]
+
+[.small-break]
+'''
 
 "`I attended our Monthly Meeting,
 and returned the minute which was granted me last month,
@@ -1321,6 +1356,9 @@ But not being much acquainted with them, it was yielded to in the cross,
 feeling indeed as a little child; but endeavoring to keep near to the exercise,
 was favored to return with the reward of peace.`"
 
+[.small-break]
+'''
+
 +++[+++The acknowledgment by Hannah Gibbons in the foregoing memorandum of '`poverty
 of spirit,`' with but '`a little gleam of hope from time to time afforded;`'
 and also a prospect of duty required of her '`being much in the cross,
@@ -1336,6 +1374,9 @@ and of being under that holy chastening discipline, which,
 through great tribulations and being washed in the blood of the Lamb,
 makes sure at last the ever blessed promise--to be led unto living fountains of waters,
 where God shall wipe away all tears from the eyes.]
+
+[.small-break]
+'''
 
 "`1st month 30th, 1842.
 This day at meeting a little ability was afforded to relieve my mind in testimony,
@@ -1422,6 +1463,9 @@ the present afflictive dispensation will be sanctified, to him.
 I had an opportunity of expressing what I felt for him,
 which he appeared to receive well; and I felt the reward of peace.`"
 
+[.small-break]
+'''
+
 +++[+++Hannah Gibbons seems often to have been called, in the authority of the anointing,
 to visit the bereaved, the sick, and the imprisoned.
 And we have no doubt that He whose mercies fail not,
@@ -1431,6 +1475,9 @@ verifying in her experience the language,
 "`Inasmuch as ye have done (this) unto one of the least of these my brethren,
 ye have done it unto me;`" and also the promise: "`The liberal soul shall be made fat:
 and he that watereth shall be watered also himself.`"]
+
+[.small-break]
+'''
 
 No date.
 "`Being often brought under exercise,
@@ -1598,7 +1645,10 @@ but that Thou would be pleased to keep me through them to the reduction of my ow
 and to thine honor; being renewedly sensible,
 that any efforts of our own to promote Thy righteous cause, will be unavailing.`"
 
-The Apostle Paul says, "`I know nothing by myself.`"
+[.small-break]
+'''
+
++++[+++The Apostle Paul says, "`I know nothing by myself.`"
 We suppose this has been the experience of all the truly
 humbled and contrite followers of the Lord Jesus,
 from that day to this.
@@ -1608,13 +1658,16 @@ without whom we can do nothing.
 These have realized that the stripping chamber of deep spiritual exercise,
 and the renewed baptism of the Holy Ghost,
 is that which only qualities for the daily work of the Lord; and which,
-with fer vent wrestling prayer,
-opens the door of light and lite unto Him who will ever remain the Alpha and Omega,
+with fervent wrestling prayer,
+opens the door of light and life unto Him who will ever remain the Alpha and Omega,
 the wisdom and the anointing of all His self-denying and obedient followers.
 Our beloved friend seems to have experienced this;
 and hence how frequent and fervent are her appeals to the throne of grace and mercy,
 for that help and strength which the Lord of life and glory
-delights to grant to His faithful dependent children.
+delights to grant to His faithful dependent children.]
+
+[.small-break]
+'''
 
 "`6th month 18th. On our way to meeting this morning,
 we were informed of the death of Thomas Rudolph,
@@ -1638,6 +1691,9 @@ for the Lord hath dealt bountifully with thee.`' '`Who redeemeth thy life from d
 Who crowneth thee with lovingkindness and tender
 mercies.`' O may I never forget to wait upon Him,
 and be increasingly willing to obey Him.`"
+
+[.small-break]
+'''
 
 +++[+++Hannah Gibbons, from her memoranda,
 appears to have been one of those inward and watchful Christians, who, in her measure,
@@ -1665,6 +1721,9 @@ and to letting obedience keep pace with knowledge,
 to the law of the spirit of life in Christ Jesus,
 that she was enabled to grow in spiritual stature through the progressive stages,
 unto a pillar in the temple of her God, which should go no more out.]
+
+[.small-break]
+'''
 
 "`8th month 27th, 1843.
 In our meeting (Darby) my mind became exercised in fear
@@ -1818,7 +1877,7 @@ O, I have nothing to trust to but Thy mercy.
 "`2nd month.
 Attended our Quarterly Meeting under considerable bodily infirmity.
 
-"`Our dear friends D. and A. C, from Carolina, were there on their way to Philadelphia,
+"`Our dear friends D. and A. C. from Carolina, were there on their way to Philadelphia,
 in order to embark for Ireland, etc., on a religious visit,
 hoping to reach there in time to attend the Yearly Meeting in Dublin.
 Our dear friend Sarah Emlen opened a prospect which had long impressed her mind,
@@ -1853,7 +1912,10 @@ These comparatively small acts of apprehended duty are humiliating;
 and I have earnestly desired to be preserved from kindling a fire in my own wisdom,
 and warming myself by the sparks thereof; lest I should have to lie down in sorrow.`"
 
-The watchful, christian care exercised by our dear friend,
+[.small-break]
+'''
+
++++[+++The watchful, christian care exercised by our dear friend,
 in respect to all her religious acts and movements, is very observable and instructing.
 The natural man can do nothing to the glory of God; that holy, all-wise Being,
 who also is sufficient for His own work, and who,
@@ -1864,7 +1926,10 @@ having nothing but what is in mercy dispensed to us from the Treasury on high.
 How wise then is it, like this well instructed scribe, to wait diligently,
 though patiently, for the anointing and alone qualifying power of our holy Redeemer,
 who in merciful condescension, when He putteth forth His sheep, goeth before them;
-prepares the way; accepts the sacrifice; gives them their penny of peace.
+prepares the way; accepts the sacrifice; gives them their penny of peace.]
+
+[.small-break]
+'''
 
 "`In the 6th month, I paid a visit to my children at Coatesville,
 and also to my dear sister Edith Edge and family,
@@ -1904,6 +1969,9 @@ as also for visiting an individual not in prison,
 who appears to lie careless of his best interests;
 for both which I hope I feel thankful.`"
 
+[.small-break]
+'''
+
 +++[+++The next religious service which engaged our friend Hannah Gibbons,
 was the visit to the half-year`'s meeting of Virginia, and the meetings constituting it.
 She had for companions her friends Jane and Edward Garrett,
@@ -1914,6 +1982,9 @@ They were absent nearly three weeks, and reached their homes in health and safet
 which she acknowledged as "`cause tor humble thankfulness
 to the Author of all our sure mercies,
 serious sickness prevailing in places they visited.]
+
+[.small-break]
+'''
 
 "`11th month 16th. For the last few weeks a deep concern has been felt
 on account of a man in Moyamensing prison under sentence of death;
@@ -2022,6 +2093,9 @@ After wards,
 when on a family visit to Friends in the neighbor hood of the before-mentioned individual,
 way opened to have a religious opportunity with him and his family, much to my relief.`"
 
+[.small-break]
+'''
+
 +++[+++When the eye is kept single to the Great Counsellor in the heart,
 as well as the Great Controller of events,
 and the government of all placed upon His shoulders, how He prepares the way for,
@@ -2045,8 +2119,13 @@ as showing the character somewhat of those exercises which she felt for,
 and conveyed to others.
 To wit:]
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 9th month 22nd, 1835.
 
+[.salutation]
 My Dear Brother:
 
 My feelings became much interested in thy best welfare the last time I was in thy company;
@@ -2082,7 +2161,7 @@ and who knows how to succor those who are tempted, and will, when temptations pr
 if sought unto in sincerity and faith, make a way for our escape.
 
 Blessed be His Holy Name, I think I know what I write from a degree of experience;
-and therefore feel an earnest solicitude for thy encouragment,
+and therefore feel an earnest solicitude for thy encouragement,
 that thou mayst trust in the Lord with all thy heart,
 and lean not to thy own understanding.
 Thus submitting to the cleansing, purifying operations of Divine love,
@@ -2102,13 +2181,18 @@ whose primary concern I trust it is at seasons to have the day`'s work done in t
 That this may be thine also, my dear brother,
 is the present breathing solicitude of my mind.
 
+[.signed-section-closing]
 Thy truly affectionate sister,
 
+[.signed-section-signature]
 Hannah Gibbons.
 
+--
+
+[.offset]
 +++[+++Her memoranda are resumed under date:]
 
-7th month 31st, 1845.
+"`7th month 31st, 1845.
 I often feel the present,`" she writes, "`to be a day of trial, yea,
 of much shaking in our Society.
 Be pleased, O Father of mercies, to continue to shake us,
@@ -2598,15 +2682,18 @@ Gracious Father! be pleased to watch over thy church and family;
 and strengthen thy little ones to come forward in humility and faith,
 in these days of close proving and searching of heart.`"
 
+[.small-break]
+'''
+
 +++[+++The concluding sentence of the above memorandum of our dear friend,
 has reminded of a record of that father in the church, John Churchman,
 when near the close of his dedicated life: "`I feel earnest breathing`'s to the Lord,
 that there may be those raised up in the church, who may go forth in humility, sweetness,
 and life, clear of all superfluity in expressions and other wise,
 standing for the testimony,
-that they may be useful to the church in these difficult times.`"]
+that they may be useful to the church in these difficult times.`"
 
-"`These difficult times have not ceased;
+These difficult times have not ceased;
 neither truly are we any whit less in need of those, who,
 "`standing for the testimony "`shall go forth, as saith H. Gibbons,
 "`in humility and faith in these days of close proving and searching of heart.`"
@@ -2616,7 +2703,10 @@ of the meek and lowly Jesus --how hard to lay the choice treasures,
 the fondly gathered stores of the head and heart, at the footstool of the Crucified!
 But there is no other way to the crown immortal;
 neither any other true way to usefulness in the Church of Christ.
-"`To reign it is necessary first to suffer.`"
+"`To reign it is necessary first to suffer.`"]
+
+[.small-break]
+'''
 
 "`4th month 30th. The subject of removing to West Chester, is much before me;
 and the craving of my mind often is, that Divine Goodness may be so sought after,
@@ -2940,6 +3030,9 @@ Soon after our return we were informed that what
 I wrote to the prisoner had been handed to him,
 and the sheriff hoped he would be benefitted thereby.
 
+[.small-break]
+'''
+
 +++[+++It is no new thing for a testimony not to be received,
 even when the messenger is Divinely commissioned.
 The apostles who were sent out by their Heavenly Master were thus charged by Him:
@@ -2968,6 +3061,9 @@ they are left without the needed support of His sustaining presence,
 and the consolation of His ever blessed Spirit,
 when summoned before that just judgment seat,
 whose decisions shall be final and eternal.]
+
+[.small-break]
+'''
 
 "`In the 11th month,`" she continues, "`I attended the Quarterly Meeting of Caln,
 in company with my cousin James Emlen.
@@ -3026,7 +3122,7 @@ with one or more of the particular meetings;
 and obtaining the concurrence of our Monthly Meeting, accompanied by and,
 I left home the 31st of Fifth month, and attended Bart meeting next day.
 Way not opening with sufficient clearness to appoint a meeting on Second day,
-we spent the time in visiting my dear widowed friend S. C, also a sick young woman,
+we spent the time in visiting my dear widowed friend S. C. also a sick young woman,
 L+++.+++ S., and some others.
 Third day attended Sadsbury Monthly Meeting; the three following days, Bradford, Uwchlan,
 and Robeson Monthly Meetings.
@@ -3106,7 +3202,7 @@ to look unto Thee day by day, and to do Thy blessed will: that so the language m
 in the winding up of time, be applicable to me, '`the harvest is past, the summer ended,
 and I am not saved.`'`"
 
-2nd month 1852.
+"`2nd month 1852.
 I have entered my eighty-second year.
 Attended our Quarterly Meeting at Concord.
 Here our valued friend Mary Kite,
@@ -3136,6 +3232,9 @@ by the mighty God of Jacob to do his work;
 and that a succession of laborers may be raised up,
 to support the precious doctrines and testimonies given to us as a people,
 that Zion may again arise in her ancient beauty.`"
+
+[.small-break]
+'''
 
 +++[+++It is no marvel that the above christian desire, coupled, it may be, with grave fears,
 should be entertained by one in her measure, as was the prophet Elijah,
@@ -3167,6 +3266,9 @@ and whose greatest joy would be to see sons and daughters in true self-renunciat
 walking in, and enjoying the exceeding riches of the Saviour`'s grace,
 and the comfort of the Holy Ghost, unto the edification of the church,
 the spouse and body of Christ.]
+
+[.small-break]
+'''
 
 "`First day, the 20th. I attended our meeting at West Chester.
 A solemnity seemed spread over us, wherein the secret petition of my heart was,
@@ -3302,6 +3404,9 @@ the humble query of those whom our Divine Master called blessed, revived in my m
 ye did it unto me.`' The revival whereof seemed to have healing virtue in it,
 for which I desire to be thankful.`"
 
+[.small-break]
+'''
+
 +++[+++It is the invariable way of our God to bring low, before He raiseth up;
 that under the humiliating and painful sense of our unworthiness,
 and that we are nothing, and have nothing, and can do nothing,
@@ -3318,7 +3423,10 @@ and from having the harp hung upon the willows in mournful silence,
 to know it afresh tuned to the praise of Him who had delivered out of every temptation,
 and preserved alive to the praise of His all-powerful grace.
 Herein, what is written is verified: "`Thou hast wrought all out works in us:`" and,
-"`All thy works shall praise thee, O Lord; and thy saints shall bless thee.`"
+"`All thy works shall praise thee, O Lord; and thy saints shall bless thee.`"]
+
+[.small-break]
+'''
 
 "`8th month 31st, Our Monthly Meeting at West Chester.
 Our friends David and Debbie Cope attended it.
@@ -3403,6 +3511,9 @@ Gracious Father, be pleased I beseech thee,
 to keep me from casting away my confidence in Thee,
 Thou ever blessed Shepherd and Bishop of souls.`"
 
+[.small-break]
+'''
+
 +++[+++Truly noticeable and interesting is the fact, how steadily engaged Hannah Gibbons was,
 to keep close to the Lord in reverential prayer.
 From Him, the great Counsellor in the heart, who teacheth as never man taught,
@@ -3439,10 +3550,16 @@ but will be graciously pleased to verify to these His ancient promises,
 "`Call upon me in the day of trouble, and I will deliver thee,
 and thou shalt glorify me.`"
 
+[.offset]
 The subjoined letter to her friend William Evans, was written about this time, viz:]
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 2nd or 3rd month 1854.
 
+[.salutation]
 My dear friend William Evans,
 
 Thy acceptable letter was duly received, and has been frequently read,
@@ -3516,9 +3633,13 @@ and the pure Truth exalted over all, to the comfort of the heavy-hearted,
 whose desire is that Zion may arise, shake herself from the dust of the earth,
 and put on her beautiful garments.
 
+[.signed-section-closing]
 In feelings of tenderness and affection, I remain thy friend,
 
+[.signed-section-signature]
 Hannah Gibbons.
+
+--
 
 "`3rd month 1854.
 I believe I may say of a truth that my mind is daily exercised
@@ -3588,7 +3709,7 @@ May the Lord of the harvest bring forth laborers into His harvest,
 is the present breathing of my spirit.`"
 
 Same date.
-"`Our valued friend B. H, from Ohio, in the course of his religious visit in these parts,
+"`Our valued friend B. H. from Ohio, in the course of his religious visit in these parts,
 attended our meeting at West Chester.
 It was a time of renewed favor;
 and oh! that fruits answerable thereto may be brought forth,
@@ -3757,10 +3878,16 @@ I thought her ser vice with us, was attended with a precious feeling.
 "`19th. It seemed to me we had a good meeting, in silence this morning.
 May all the praise be given to Him, to whom alone it belongs.`"
 
+[.offset]
 +++[+++The following letter to William Evans, is dated:]
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 8th month 28th, 1855.
 
+[.salutation]
 My dear friend, William Evans,
 
 Although I feel but little ability to use the pen (indeed my ability is small
@@ -3834,9 +3961,13 @@ acknowledgment for our being remembered by you,
 my beloved brother and sister in the Truth.
 With much love to dear Elizabeth and thyself, in which my J. unites,
 
+[.signed-section-closing]
 I remain your sincere friend,
 
+[.signed-section-signature]
 Hannah Gibbons.
+
+--
 
 "`9th month 23rd.`" After an allusion to a season of strippedness and poverty,
 she thus continues: "`Through the condescending of our heavenly Shepherd,
@@ -3900,6 +4031,9 @@ My mind this afternoon enjoys a comfortable quiet,
 for which I desire to be thankful to Him, whose ways are not as our ways,
 and whose dispensations are all in inscrutable wisdom.`"
 
+[.small-break]
+'''
+
 +++[+++After the perusal of such a memorandum, who can but exclaim,
 O the desirableness of being followers of those who are followers of Christ--those who,
 through faith and patience, inherit the promises!
@@ -3930,6 +4064,9 @@ with a wise ruler in ancient Israel,
 than to enjoy the pleasures of sin for a season;
 esteeming the reproach of Christ greater riches than the treasures in Egypt:
 for he had respect unto the recompense of the reward.`"]
+
+[.small-break]
+'''
 
 "`5th month 4th, 1856.
 Our friend S. M., from Ohio, and her companion,
@@ -4010,6 +4147,9 @@ and Holy One for strength to live the life of the righteous,
 that so our latter end might be like unto theirs;
 being renewedly sensible that any efforts in our creaturely wisdom would be unavailing.`"
 
+[.small-break]
+'''
+
 +++[+++Hannah Gibbons often commemorates the goodness of her Heavenly Father,
 in over-shadowing the silent meeting with His sweet, consoling presence.
 It is this heavenly canopy, whether it be of the two or the three,
@@ -4025,10 +4165,16 @@ who alone can give it, will forever make good His promises to the wrestling, lon
 patient soul: "`They that wait upon the Lord shall renew their strength.`"
 "`Ye shall seek me and shall find me, when ye shall search for me with all your hearts.`"
 
+[.offset]
 The following are extracts from a letter to her friend William Evans:]
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 1st month 1858.
 
+[.salutation]
 My dear friend and brother,
 
 My mind is often turned towards thee and dear Elizabeth,
@@ -4063,8 +4209,11 @@ As we sat together, the saying of our blessed Saviour revived in my mind:
 there am I in the midst of them.`' It seemed to me that there was
 a little of the heavenly influence felt amongst us;
 which is cause of humble gratitude to the Author of all good,
-and encouraging to the traveller Zionward.`"
+and encouraging to the traveller Zionward.
 
+--
+
+[.offset]
 +++[+++The selections from her memoranda continues:]
 
 "`2nd month 7th. Being favored to get to meeting today,
@@ -4111,10 +4260,16 @@ remembering the awful declaration of the Most High,
 '`My spirit shall not always strive with man.`' I returned peaceful and thankful.
 Dear Hannah Rhoads was in attendance, and was favored in testimony.`"
 
+[.offset]
 +++[+++To her friend William Evans she again writes:]
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 10th month 2nd and 3rd, 1858.
 
+[.salutation]
 My dear friend William Evans,
 
 I feel inclined to write thee a few lines,
@@ -4153,9 +4308,13 @@ which I hope you may be able to do ere very long.
 In the feeling of very tender love to you both,
 which I trust is of that kind which waxeth not old,
 
+[.signed-section-closing]
 I remain your sincere friend,
 
+[.signed-section-signature]
 Hannah Gibbons.
+
+--
 
 "`10th month 12th, 1858.
 My beloved brother-in-law, Abraham Gibbons,
@@ -4187,6 +4346,7 @@ wherein a desire arose that all the erring,
 straying sheep from our Heavenly Father`'s house, might through His adorable mercy,
 be brought back to it, where there is bread enough and to spare.`"
 
+[.offset]
 +++[+++After the simple statement that they had religious communications at their meeting,
 Hannah Gibbons, thus proceeds:]
 
@@ -4196,6 +4356,9 @@ being renewedly made sensible of my nothingness and unworthiness;
 and that truly the solemnizing presence of the High and Holy One is not at our command.
 Yet He is at times pleased in mercy to favor with it, when words are not spoken.
 Gracious Father! be pleased to keep me in a dependent state.
+
+[.small-break]
+'''
 
 +++[+++The above allusion to silent meetings by our dear friend,
 reminds of an expression of one of her cotemporaries, likewise passed away,
@@ -4221,11 +4384,17 @@ will not be satisfied with a substitution,
 or anything short of the only acceptable sacrifice
 of a broken heart and a contrite spirit.
 
+[.offset]
 The following letter is thus endorsed by Hannah Gibbons:]
+
+[.offset]
 "`The within is the latter part of a letter sent to William and Elizabeth Evans,
 dated 4th month 4th, 1859.`"
 
-"`Yearly Meeting is fast approaching,
+[.embedded-content-document.letter]
+--
+
+Yearly Meeting is fast approaching,
 and I doubt not brings an increase of exercise to thy mind, and also to dear Elizabeth,
 in which you have my tender sympathy.
 But how consoling is it that you can say from heartfelt experience,
@@ -4289,7 +4458,10 @@ The foregoing has been written at several times, and is scarcely worth sending,
 only as an assurance that you are held in tender affection; and,
 according to the ability afforded, in gospel fellowship, by your unworthy, aged friend,
 
+[.signed-section-signature]
 Hannah Gibbons.
+
+--
 
 "`5th month, 1859.
 I was favored to attend our Quarterly Meeting at Concord, though in much feebleness.
@@ -4372,6 +4544,9 @@ be pleased to keep my mind more free from the mixture of self, and near unto The
 and enable me, a poor worm of the dust, to continue to have my confidence fixed in Thee,
 the Hock of ages, against which the gates of hell shall not be able to prevail.`"
 
+[.small-break]
+'''
+
 +++[+++How sweetly is the humbled, chastened christian character, even that of a little child,
 manifested in the foregoing memorandum.
 How self-distrustful was she;
@@ -4432,6 +4607,9 @@ can pass;
 but it is the part of wisdom carefully and prayerfully
 to enquire if they be safe ways--leading to peace.]
 
+[.small-break]
+'''
+
 "`1st month 27th, 1860.
 Feeling poorly in body, which is often my experience,
 yet not quite easy to omit going to meeting,
@@ -4486,9 +4664,14 @@ if we are enabled to get along through our religious
 exercises without experiencing condemnation,
 it is of the Lord`'s mercy; especially such poor creatures as myself.`"
 
+[.offset]
 +++[+++The following letter to +++________+++, belongs to about this period.]
 
-"`Esteemed young friend.
+[.embedded-content-document.letter]
+--
+
+[.salutation]
+Esteemed young friend.
 
 It may be altogether unexpected to thee to receive a letter from me,
 being unacquainted with thee, yet I may say my mind has for a considerable time past,
@@ -4547,7 +4730,10 @@ May thine, dear young friend, through obedience to His holy law written in the h
 be so ordered by Him that thou may be favored with the peace which passeth all understanding,
 is the fervent solicitude of thy sincere friend,
 
+[.signed-section-signature]
 Hannah Gibbons.
+
+--
 
 "`7th month 1st. In our meeting I was solemnly impressed
 with the language of the Most High to a people formerly:
@@ -4579,6 +4765,9 @@ through holy help, steadfast, there will in the Lord`'s time be a gathering unto
 and our poor Society be favored with increasing settlement,
 and know an arising as in ancient beauty.`"
 
+[.small-break]
+'''
+
 +++[+++The conditions upon which the cheering hopes, contained in this record, are based,
 should lead each one of us to the diligent heed and inquiry:
 Are we concerned faithfully to maintain the doctrines
@@ -4600,6 +4789,9 @@ come ye and let us walk in the light of the Lord.`"
 Let us see to it that the testimonies entrusted to us to bear before the world,
 be not impugned or "`taken from us through slackness or unfaithfulness,
 and given to a nation bringing forth the fruits thereof.`"]
+
+[.small-break]
+'''
 
 "`9th month 30th, 1860.
 On going to meeting,
@@ -4652,11 +4844,17 @@ to raise up and qualify a succession of testimony bearers
 for His ever blessed cause of truth and righteousness:
 whereby His name might be glorified, and His church edified.`"
 
+[.offset]
 +++[+++The following letter Mas written to Asenath Clarke
 while on a religious visit in North Carolina:]
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 West Chester, 1st month 1861.
 
+[.salutation]
 My dear friend Asenath Clarke,
 
 Our mutual friend A. R., kindly gave me the privilege of reading thy letter to her,
@@ -4720,7 +4918,10 @@ reward with the sheaves of peace.
 In very tender love and sympathy, and, according to my small measure, gospel fellowship,
 I remain thy friend,
 
+[.signed-section-signature]
 Hannah Gibbons.
+
+--
 
 "`1st month 16th, 1861.
 My beloved cousin, Joseph Rhoads, departed this life after a short illness.
@@ -4816,6 +5017,9 @@ May He be pleased to raise up, and qualify a succession of laborers in his harve
 that so His blessed cause of Truth and righteousness may never want advocates,
 is the present breathing of my spirit.`"
 
+[.small-break]
+'''
+
 +++[+++After an allusion to an attack of extreme illness,
 which commenced on the 31st of First month, 1862, and continued for more than two months,
 Hannah Gibbons thus writes 6th month 5th:
@@ -4845,6 +5049,9 @@ His blessed Truth the few remaining days of my pilgrimage,
 is often the silent prayer of my heart.
 I am now in my 92nd year.]
 
+[.small-break]
+'''
+
 "`7th month 13th. I was favored again to sit with Friends in our meeting,
 which felt a privilege of no small value.
 I was renewedly impressed with desires for myself and those assembled,
@@ -4854,11 +5061,18 @@ Love flowed to my brethren and sisters in silence,
 and I felt a degree of thankfulness that I had been
 permitted to sit with them once more.`"
 
+[.offset]
 +++[+++The following letter is dated about this time:]
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 7th month, 1862.
 
+[.salutation]
 My dear nephews +++_______+++ and +++_______+++,
+
 My mind is often turned towards you in tender affection
 and heartfelt desire for your best welfare;
 and not knowing that I shall have an opportunity of expressing it verbally,
@@ -4920,7 +5134,10 @@ having nothing in view by it but your best welfare and the relief of my own mind
 and with love to, desiring you may be one another`'s helper in the Lord,
 I am your affectionate, and truly well-wishing aunt,
 
+[.signed-section-signature]
 Hannah Gibbons.
+
+--
 
 "`7th month 1862.
 I was favored to sit with Friends again in our meeting to my comfort;
@@ -5055,7 +5272,7 @@ Hannah Gibbons, had no doubt in her measure,
 experienced through the saving strength of Him whom,
 "`God had exalted with his right hand to be a Prince and a Saviour for to give repentance
 to Israel and forgiveness of sins,`" that godly sorrow which worketh repentance to salvation:
-and hence her allusion to "`the all-sufficiency"` of that Al mighty
+and hence her allusion to "`the all-sufficiency`" of that Almighty
 "`power to heal our backslidings when they are repented of.`"
 Thus it is; when the poor sinner is brought, through the convicting,
 convincing power of the Holy Spirit to have the eyes of his understanding opened,
@@ -5074,6 +5291,9 @@ and wherein "`the ancient landmarks which our fathers have set,`" are being so r
 Remember therefore from whence thou art fallen; and repent, and do the first works;
 or else I '`will come unto thee quickly,
 and will remove thy candlestick out of his place, except thou repent.`"]
+
+[.small-break]
+'''
 
 "`10th month 19th. In our meeting, today,
 my mind became early clothed with desires for our best welfare;
@@ -5127,10 +5347,16 @@ my mind was renewedly clothed with desires for myself,
 to be enabled to leave the things that are behind,
 and press forward in the line of apprehended duty in simplicity and faith.`"
 
+[.offset]
 +++[+++The following letter to her brother Jacob Pusey, is dated:]
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 12th month 19th, 1862.
 
+[.salutation]
 Dear Brother,
 
 My mind being frequently turned towards thee in tender affection,
@@ -5177,15 +5403,22 @@ and to press on ward in the heavenward journey.
 That this may be thy and my happy experience, my dear brother,
 is the present breathing of my spirit.
 
+[.signed-section-closing]
 Thy affectionate sister,
 
+[.signed-section-signature]
 Hannah Gibbons.
+
+--
 
 +++[+++After stating that she had been able to meet with her friends
 for the purpose of Divine worship but once in more than four weeks,
 she thus writes under date of:]
 
-1st month 8th, 1863.
+[.small-break]
+'''
+
+"`1st month 8th, 1863.
 Today I was favored to get to meeting: a privilege of no small value.
 I was impressed with a few words which seemed best for me to express.
 After which my dear friend L. K., appeared in solemn supplication.
@@ -5216,6 +5449,9 @@ with too little zeal that is profitable to direct aright,
 even to the putting shoulder to shoulder in order
 for the repairing of the waste places in our Zion.`"
 
+[.small-break]
+'''
+
 +++[+++This of "`putting shoulder to shoulder in order for the repairing
 the waste places in our Zion,`" and a deep religious exercise,
 each for the salvation of his and her soul, is, we apprehend, much wanting among us.
@@ -5234,6 +5470,9 @@ many causes for trembling and for mourning,
 yet how would these seasons be truly those for humble joy and thanksgiving,
 and drawing nearer unto Him in whose hand our breath is, and whose are all our ways.]
 
+[.small-break]
+'''
+
 "`3rd month 1st, 1863.
 Being poorly I did not get to meeting today; which has been the case frequently of late.
 Spiritual poverty hath been much my portion, and is cause of much secret inquiry.
@@ -5244,12 +5483,20 @@ through thy goodness and mercy, be prepared for the solemn close of this life: w
 the nearer it approaches, the more solemn it often feels to me,
 now in the 93rd year of my age.`"
 
+[.offset]
 +++[+++To a near relative, she thus writes:]
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 3rd month 10th, 1863.
 
-My dear +++________+++, on thinking over the subject we spoke of when thou wast here,
-(a question of business,) I feel best satisfied to express a few words in regard to it.
+[.salutation]
+My dear +++________+++,
+
+On thinking over the subject we spoke of when thou wast here,
++++[+++a question of business,] I feel best satisfied to express a few words in regard to it.
 Thou hast been careful to ask advice of friends, whose judgment thou values no doubt,
 which is commendable.
 But as it is only individual faithfulness that will entitle
@@ -5270,7 +5517,10 @@ That this may be more and more thy happy experience is the present breathing of 
 With desires for thy preservation, with that of my own, feeling the need,
 even at this advanced age, of watching unto prayer, I conclude,
 
+[.signed-section-signature]
 Hannah Gibbons
+
+--
 
 "`22nd. This morning my mind was clothed with a degree of solemnity;
 under which covering I went to meeting,
@@ -5287,8 +5537,7 @@ the summer is ended and I am not saved:`' but that through
 humble obedience to the will of our Heavenly Father,
 we might be prepared to receive the welcome salutation of '`Well done,
 good and faithful servant, enter thou into the joy of thy Lord.`'
-
-"`In the afternoon my mind was favored with quiet.
+In the afternoon my mind was favored with quiet.
 
 "`4th month 19th. I was favored to get to meeting though in much feebleness of body.
 It seemed to me a time of labor, watching against intruding thoughts.
@@ -5335,7 +5584,7 @@ Gracious Father! be pleased, I pray Thee, to keep me as in the hollow of Thy hol
 from the by-ways and crooked paths which the enemy
 of our soul`'s peace is frequently presenting.
 
-Fifth month 7th. Yesterday the remains of our valued friend Charles Downing,
+"`Fifth month 7th. Yesterday the remains of our valued friend Charles Downing,
 and our cousin Richard Oakford, were laid in the grave; also two of our citizens, viz.,
 J+++.+++ T., and C K. It was a day of mourning,
 and of doubts and fears respecting my own standing
@@ -5385,15 +5634,22 @@ Remembering that the gospel dispensation, under which we live, was ushered in wi
 and good will to men.`' After this little sacrifice,
 I was renewedly strengthened to trust in the Lord, and hope in His mercy.`"
 
-+++[+++The following letter to +++_______+++, is thus superscribed:]
+[.small-break]
+'''
 
++++[+++The following letter to +++_______+++, is thus superscribed:]
 "`Copy of a letter which I thought for a time I might be excused from sending,
 but the impression reviving, it was sent.
 Hannah Gibbons.`"
 
-"`West Chester, 6th month 1863.
+[.embedded-content-document.letter]
+--
 
-"`Dear young relative,
+[.signed-section-context-open]
+West Chester, 6th month 1863.
+
+[.salutation]
+Dear young relative,
 
 It may be unexpected to thee to receive a letter from me,
 but my mind having been unexpectedly drawn towards thee,
@@ -5420,7 +5676,7 @@ is what I crave for thee.
 
 I well remember in my youthful days when some small sacrifices seemed required of me,
 it was suggested to my mind, that if I gave up to be religious,
-the way was so narrow that I should see no more plea sure!
+the way was so narrow that I should see no more pleasure!
 If thoughts of this kind are presented to thy mind,
 believe most assuredly they come from him, who is the enemy of our soul`'s happiness,
 and who was a liar from the beginning; and who will, if possible,
@@ -5469,7 +5725,10 @@ and He will teach us of His ways, and we will walk in His paths.`'
 I feel my mind clothed with desires tor thy encouragement in the way that leads to peace;
 and remain thy affectionate aunt,
 
+[.signed-section-signature]
 Hannah Gibbons.
+
+--
 
 "`8th month 7th 1863.
 After a season of close exerise, which seemed almost too weighty for me,
@@ -5511,7 +5770,10 @@ that there might not be a looking outward, but looking inward,
 as spiritual things were only spiritually known, etc.,
 my mind was favored with a comfortable degree of quiet trust.`"
 
-Perhaps there never was a time, when such an exercise as the above of our dear friend,
+[.small-break]
+'''
+
++++[+++Perhaps there never was a time, when such an exercise as the above of our dear friend,
 would seem to be more called for,
 or when there was more danger of our religion resting in the rational powers,
 rather than being seated in the heart: where, it may be first but as a little leaven,
@@ -5535,7 +5797,10 @@ For "`the natural man receiveth not the things of the Spirit of God:
 for they are foolishness unto him: neither can he know them,
 because they are spiritually discerned.`"
 Hence it is "`Not by might nor by power: but by my Spirit,
-saith the Lord of hosts,`" that what is done can be done to any purpose.
+saith the Lord of hosts,`" that what is done can be done to any purpose.]
+
+[.small-break]
+'''
 
 "`9th month 27th. To be able to assemble with my
 friends in order to perform Divine worship,
@@ -5571,6 +5836,9 @@ where there may probably be more company than usual tomorrow,
 this evening I feel my mind much relieved from it, lest it may be said,
 '`Who hath required this at thy hand.`'`"
 
+[.small-break]
+'''
+
 +++[+++Hannah Gibbons often quotes the aphorism of her dear Saviour and Lawgiver,
 "`Without me ye can do nothing.`"
 It is very observable that though she had been so
@@ -5581,12 +5849,18 @@ she should gradually slide from watchfulness unto prayer;
 lest she should in any wise turn from His holy will, inwardly revealed;
 lest she should compass a mountain in the wilderness,
 or should bring upon herself the fearful interrogation and rebuke,
-"`Who hath required this at thy hand?`"
+"`Who hath required this at thy hand?`"]
 
+[.offset]
 +++[+++To her friend and relative Hannah Rhoads, she writes:]
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 10th month 7th, 1863.
 
+[.salutation]
 My dear friend and cousin,
 
 I have often thought of replying to thine of Sixth month last,
@@ -5653,9 +5927,13 @@ we should be pleased to see thyself or any of them here.
 In a measure of that love which I trust waxeth not old,
 I bid thee affectionately farewell.
 
+[.signed-section-closing]
 Thy cousin,
 
+[.signed-section-signature]
 Hannah Gibbons.
+
+--
 
 "`10th month 15th, 1863.
 I went to meeting in rather more infirmity of body than usual, and much exercise of mind.
@@ -5681,21 +5959,18 @@ footnote:[See Friends`' Library, vol.
 4, p. 400.]
 and is as follows:
 
+[verse]
+____
 '`In age assist me dearest Lord,
-
 In faith my spirit stay,
-
 And if I`'ve err`'d through slavish fear,
-
 Forgive me, Lord, I pray.
 
 No other foes assail me now,
-
 Nor prey upon my peace,
-
 But false alarms and slavish fears:
-
 Oh! cause those fears to cease.`'
+____
 
 "`I crave right direction, and that Thou, Father of mercies,
 may be pleased to keep me in a safe path, free from all the wiles of an unwearied enemy.
@@ -5747,7 +6022,8 @@ it is impossible to please God.`'`"
 The funeral of M. W., occurred, and feeling an engagement of mind to attend it,
 I did so--it was a time of close exercise.`"
 
-* * *
+[.asterism]
+'''
 
 Here closes the memoranda of our dear mother as kept by herself.
 We feel it due to her memory to add some of her expressions
@@ -5781,10 +6057,10 @@ My way of getting along has been a little way, a one talent;
 but as that has been improved, the penny has been given.
 I think I feel an assurance that the Arms of mercy are open to receive me.`"
 
-4th. It is the hidden life the enemy seeks to destroy,
+4th. "`It is the hidden life the enemy seeks to destroy,
 and is unwearied in his endeavors for this end.
-But what a mercy it is that "`He that is in you,
-is greater than he that is in the world.`"
+But what a mercy it is that '`He that is in you,
+is greater than he that is in the world.`'
 I have lived many days, and experienced many conflicts,
 and though I have done but little for the Truth,
 if I have been preserved from marring it, it is of His mercy in whom is all strength.
@@ -5792,24 +6068,24 @@ Many omissions and some commissions I have to acknowledge;
 but I think I can appeal to the Searcher of hearts,
 that it has been more through fear of putting a hand to the work unbidden,
 than from wilful disobedience.
-There are many pas sages of Scripture that seem at times as a sealed book,
+There are many passages of Scripture that seem at times as a sealed book,
 which at other times open with encouragement.
 I have been thinking of the passage in Revelations,
-"`The wonder in Heaven--the woman clothed with the sun,
-and the moon under her feet:`" and commented with interest on most of the chapter,
+'`The wonder in Heaven--the woman clothed with the sun,
+and the moon under her feet:`'`" and commented with interest on most of the chapter,
 and though she did not wish at all to compare herself to the woman,
 and it was a great thing for her to say it,
 yet she thought she had known a being helped when
 floods of discouragement seemed ready to overwhelm.
-I want you, my dear children, to be faithful; though trials attend,
+"`I want you, my dear children, to be faithful; though trials attend,
 which may seem at times as the blast of the terrible one,
 yet as we put our trust in the Lord alone,
 He will put the armies of the aliens to flight,
 and we shall know a coming off victorious:
 to these He will give a white stone and a new name.
-It was brought to my remembrance, she continued, at a time of deep exercise,
+It was brought to my remembrance,`" she continued, "`at a time of deep exercise,
 that the candlesticks in the Lord`'s house were to be made of beaten gold,
-implying that the work of preparation for His service must be thorough.
+implying that the work of preparation for His service must be thorough.`"
 
 On the morning of Second month 10th,
 she requested her children to sit down in her chamber, and after a little silence,
@@ -5827,17 +6103,17 @@ children to be tried above what He will enable them to bear.
 His name is a strong tower, whereunto the righteous run, and find safety.`"
 
 3rd month 27th. When suffering from extreme sickness and headache, she said,
-if it would please my Heavenly Father to release me, what a favor it would be;
-but I desire to bear it with patience and resignation.
+"`if it would please my Heavenly Father to release me, what a favor it would be;
+but I desire to bear it with patience and resignation.`"
 The belief being expressed that the everlasting Arm was underneath for her support,
 she replied, "`though I have passed through seasons of poverty, of strippedness,
 and conflict, of latter time more than in the early part of my sickness,
-yet I desire not to let go my confidence and trust; butr as my dear father said,
+yet I desire not to let go my confidence and trust; but as my dear father said,
 I hope through adorable mercy I shall be admitted within the gate.`"
 
 31st. A friend, with one of her daughters, being in the room, she said,
-I desire you may be of the truly humble-minded.
-These the true Shepherd enables to distinguish between His voice and that of the stranger.
+"`I desire you may be of the truly humble-minded.
+These the true Shepherd enables to distinguish between His voice and that of the stranger.`"
 
 4th month 15th. Being very ill, she said,
 "`I should be glad my dear absent children were here.
@@ -5849,7 +6125,7 @@ Holy One! be pleased to receive my spirit.
 I sometimes query why my sufferings are thus prolonged.
 But oh! enable me to bear with patience all thy varied dispensations.`"
 
-18th. Oh! that I might be permitted to join the heavenly host; and that thou,
+18th. "`Oh! that I might be permitted to join the heavenly host; and that thou,
 my dear child, in due time may follow me.
 I trust thy Heavenly Father will care for thee and
 keep thee as in the hollow of his Holy Hand;
@@ -5871,14 +6147,14 @@ The invisible world, how awful!`' I think I may say the same:
 but what a mercy it is to have a well grounded hope of a happy immortality.
 How many encouraging passages,`" she continued, "`there are in the Scriptures of truth;
 such as '`One is your Master, even Christ,`' etc,
-and '`God is no respecter of persons,`' "`etc.
+and '`God is no respecter of persons,`'`"etc.
 On the same evening she said to her daughter,
 "`Thy unwearied efforts for my comfort are grateful; but I want thee to let me go.`"
 
 26th. In allusion to the late Yearly Meeting, she said;
 "`I think I saw on Seventh-day morning with undoubted clearness,
 that if Friends gathered under feelings of reverence and
-holy fear--'`fear to offend--and if anything was expressed,
+holy fear--fear to offend--and if anything was expressed,
 if it was under the same precious influence, it would have a tendency to gather;
 but if the wisdom of man got up, striving to do a great deal,
 it would make scattering work;`" adding,
@@ -5888,9 +6164,11 @@ On being informed it was thought a better feeling prevailed, she said,
 "`this is what we want;`" and seemed greatly comforted.
 Near this time she repeated,
 
+[verse]
+____
 "`I thank Thee for Thy mercies past
-
 And humbly hope for more.`"
+____
 
 Soon after, when extremely sick, the language was feebly uttered, "`Lord,
 be with me,`" and immediately she fainted; on reviving, she said,
@@ -5905,7 +6183,7 @@ The thought arose, all things are possible; and I have lived to see them.`"
 Near this time she expressed,
 "`I have often in the feeling of my long continued weakness, thought of the passage,
 '`Hath this man sinned, or his parents,
-that he was born blind?`'"`and repeating the answer, continued,
+that he was born blind?`'`" and repeating the answer, continued,
 "`I think my being sustained in so much suffering,
 is to show forth the power of the Almighty.
 At another time she thus expressed herself: "`When I awoke last night,
@@ -6119,7 +6397,7 @@ of duty (which is much her experience) she said,
 "`I think my Heavenly Father knows there is nothing I so
 much desire as a quiet mind and an approving conscience;
 and why I am thus tossed I do not know:
-but if it is designed for my furtherance in best things, I desire to be resigned.
+but if it is designed for my furtherance in best things, I desire to be resigned.`"
 
 "`5th month 2nd, 1866.
 After a suffering day she repeated, "`I have nothing to trust to but mercy.
@@ -6130,7 +6408,7 @@ I think it is a favor to have faith that the foundation of God standeth sure.`"
 and I think I feel He is near me.
 If I do not live to see my dear children again,
 tell them I desire they may keep their religious duty first in view,
-and let worldly concerns be of a secondary nature.
+and let worldly concerns be of a secondary nature.`"
 
 6th month 6th. Mother repeated the language, "`Cast me not off in the time of old age,
 forsake me not when my strength faileth;`" adding,
@@ -6179,9 +6457,9 @@ May the Lord sustain me unto the end, and my dear children also.`"
 
 5th month 22nd. On parting with our brother,
 mother revived the language of her father to her on his first visit after her marriage.
-"``' Farewell my dear child,
+"`Farewell my dear child,
 don`'t let the good things of this life choke the
-better seed.`' Perhaps I may never see thee again.
+better seed. Perhaps I may never see thee again.
 My hope and trust are in Jesus Christ my Saviour.`"
 
 11th month In allusion to a son-in-law and daughter coming to spend the winter with us,
@@ -6212,8 +6490,8 @@ she expressed to a relative that she desired to be preserved from a murmuring sp
 and enabled to adopt the language, "`Though he slay me yet will I trust in him.`"
 Passages of Scripture were often repeated; such as, "`This is the way, walk ye in it.`"
 "`The Bridegroom cometh, go ye forth to meet him.`"
-On Fourth-day night she supplicated thus, "``' Thy kingdom come,
-thy will be done,`' forever, and forever, and forever.`"
+On Fourth-day night she supplicated thus, "`Thy kingdom come,
+thy will be done, forever, and forever, and forever.`"
 The hope being expressed that when the summons came it would be joyful to her,
 she replied, "`I think I may say with dear William Jackson,
 '`I have a hope that when done with the things of time,
